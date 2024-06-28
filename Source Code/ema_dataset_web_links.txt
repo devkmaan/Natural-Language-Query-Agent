@@ -1,0 +1,14 @@
+https://stanford-cs324.github.io/winter2022/lectures/introduction/
+https://stanford-cs324.github.io/winter2022/lectures/capabilities/
+https://stanford-cs324.github.io/winter2022/lectures/harms-1/
+https://stanford-cs324.github.io/winter2022/lectures/harms-2/
+https://stanford-cs324.github.io/winter2022/lectures/data/
+https://stanford-cs324.github.io/winter2022/lectures/security/
+https://stanford-cs324.github.io/winter2022/lectures/legality/
+https://stanford-cs324.github.io/winter2022/lectures/modeling/
+https://stanford-cs324.github.io/winter2022/lectures/training/
+https://stanford-cs324.github.io/winter2022/lectures/parallelism/
+https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/
+https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/
+https://stanford-cs324.github.io/winter2022/lectures/adaptation/
+https://stanford-cs324.github.io/winter2022/lectures/environment/
